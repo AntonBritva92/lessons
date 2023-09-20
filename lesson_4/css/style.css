@@ -1,0 +1,28 @@
+@import url("reset.css");
+
+h1,
+h2,
+h3 {
+  color: rgb(82, 10, 10);
+}
+
+.about_azov {
+  color: rgb(88, 8, 163);
+}
+
+#creating_azov_p {
+  color: rgb(10, 103, 72);
+}
+
+.fighting_path_p {
+  color: rgb(65, 54, 54);
+}
+
+.release_of_mariupol_p_one,
+.release_of_mariupol_p_two {
+  color: rgb(6, 60, 60);
+}
+
+.footer_link {
+  color: red;
+}
